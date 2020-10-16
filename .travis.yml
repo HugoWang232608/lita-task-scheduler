@@ -1,4 +1,4 @@
 language:ruby
 rvm:
-        -1.29.0
+        -2.7.0
 script:test.sh
